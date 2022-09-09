@@ -15,7 +15,8 @@
 **Thoughts:**
 I took quite a long break from my last round of #66daysofdata. I'm riding this wave of motivation to reestablish this as a habit. My primary goal for this round is to increase my skills with Python.
 
-**Link to work:** GitHub to the auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+**Link to work:**
+- GitHub to the auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
 ### Day 2: September 8, 2022
 
@@ -37,7 +38,7 @@ But I little by little, there are additional things that I'm picking up that I e
 
 This is a marathon not a sprint, so I will continue to take it slower but with consistency.
 
-Thoughts after the gym: I think I like this routine.
+**Thoughts after the gym:** I think I like this routine.
 - Finish work
 - Have dinner
 - Study for a bit, digesting food, and record #66daysofdata challenge
