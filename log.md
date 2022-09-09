@@ -25,6 +25,9 @@ I took quite a long break from my last round of #66daysofdata. I'm riding this w
   - Reviewed list methods like append() and insert()
   - Also learned about the enumerate function
 - ** putting a place holder here because I will resume studies after the gym :D
+- Got back from the gym and continued more through my review of lists
+  - practiced list methods such as remove(), sort(), passed keyword arguments within these methods like sort(reverse=True), to sort in descending order.
+  - Went over sequence data types: lists, strings, range objects returned by the range() function and tuples are considered sequence data types. Meaning they can be indexed, sliced, and used in for loops with len() or with in and not in operators.
 
 
 **Thoughts:**
@@ -33,6 +36,14 @@ I'm feeling impatient and want to get through these chapters that are of review 
 But I little by little, there are additional things that I'm picking up that I either forgot, or never learned during my initial pass at learning Python.
 
 This is a marathon not a sprint, so I will continue to take it slower but with consistency.
+
+Thoughts after the gym: I think I like this routine.
+- Finish work
+- Have dinner
+- Study for a bit, digesting food, and record #66daysofdata challenge
+- Go to gym
+- Continue studying until tired
+We'll see if I can keep this up
 
 
 **Link to work:**
