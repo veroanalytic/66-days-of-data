@@ -44,6 +44,7 @@ This is a marathon not a sprint, so I will continue to take it slower but with c
 - Study for a bit, digesting food, and record #66daysofdata challenge
 - Go to gym
 - Continue studying until tired
+
 We'll see if I can keep this up
 
 
