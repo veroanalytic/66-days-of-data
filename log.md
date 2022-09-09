@@ -47,6 +47,5 @@ We'll see if I can keep this up
 
 
 **Link to work:**
-
-GitHub About Me: https://github.com/veroanalytic
-GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+- GitHub About Me: https://github.com/veroanalytic
+- GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
