@@ -1,5 +1,22 @@
 # 66 Days Of Data | Log
 
+### Day 4: September 10, 2022
+
+**Today's Progress**:
+- Decided to skip a head a few chapters, and currently reviewing chapter 9, "Reading and writing files"
+  - Learned about the pathlib module, and how it is better practice to use forward slashes in your code, even when working in Windows because it will allow your code to be able to run on other operating systems like macOS and Linux
+
+
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- GitHub About Me: https://github.com/veroanalytic
+- GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+
+---
 ### Day 3: September 9, 2022
 
 **Today's Progress**:
