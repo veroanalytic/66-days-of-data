@@ -1,4 +1,4 @@
-# 66 Days Of Data - Log
+# 66 Days Of Data | Log
 
 ### Day 3: September 9, 2022
 
@@ -22,6 +22,7 @@ This has been a goal for myself for a while to be able to wake up early and code
 - GitHub About Me: https://github.com/veroanalytic
 - GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
+---
 ### Day 2: September 8, 2022
 
 **Today's Progress**:
@@ -49,14 +50,14 @@ This is a marathon not a sprint, so I will continue to take it slower but with c
 - Go to gym
 - Continue studying until tired
 
-We'll see if I can keep this up
+We'll see if I can keep this up.
 
 
 **Link to work:**
 - GitHub About Me: https://github.com/veroanalytic
 - GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
-
+---
 ### Day 1: September 7, 2022
 
 **Today's Progress**:
