@@ -11,13 +11,18 @@
 - ** placeholder until I resume my studies. maybe after work
   - Studying has continued after dinner, where I learned that when using copy() and deepcopy() functions, you are creating an actual duplicate copy of a mutable value like a list; you are not just copying the reference of the list. Meaning the variable holding the original list, and the variable holding the copied list are independent of each other
   - Followed the code to create a 'Conway's Game of  Life' short program. Honestly it's over my head right now, but I'll have this saved away to refer to if needed.
-  
+
 
 
 **Thoughts:**
 Unexpectedly woke up at 6 am, but instead of trying to force myself to go back to sleep, I decided to get up and have an early start to my studies.
 
 This has been a goal for myself for a while to be able to wake up early and code/study before work. Here's hoping I can do this consistently and make it a habit.
+
+**Thoughts: Late night**
+I may make the decision to jump around in the chapters for Automating the Boring Stuff with Python. Conceptually, there's a lot of information, but pertaining to what I want to accomplish at my job, I don't think I need all of the details that are being depicted in some of the chapters.
+
+I may start hopping around more towards chapters relating to actual automation, and then retroactively go back at chapters to understand any concepts. I think this will help it stick better.
 
 
 **Link to work:**
