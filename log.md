@@ -10,6 +10,8 @@
   - Worth noting again, list methods like append() modify 'in-place'. So if my_list = ['cat', 'dog'] and has an ID of 123, if I run my_list.append('squirrel'), my_list is modified in place, and still contains the same reference ID of 123
 - ** placeholder until I resume my studies. maybe after work
   - Studying has continued after dinner, where I learned that when using copy() and deepcopy() functions, you are creating an actual duplicate copy of a mutable value like a list; you are not just copying the reference of the list. Meaning the variable holding the original list, and the variable holding the copied list are independent of each other
+  - Followed the code to create a 'Conway's Game of  Life' short program. Honestly it's over my head right now, but I'll have this saved away to refer to if needed.
+  
 
 
 **Thoughts:**
