@@ -1,22 +1,26 @@
 # 66 Days Of Data - Log
 
-### Day 1: September 7, 2022
+### Day 3: September 9, 2022
 
 **Today's Progress**:
-- Created 66-days-of-data repo to track progress on this challenge.
-- Used Git to clone the remote repo down to my local repo. Pushing changes back to GitHub through Git as well.
-- Continuing Chapter 4 of "Automating the Boring Stuff with Python", which is focused on lists.
-  - Working with lists:
-    - Created a variable and assigned it as an empty list []
-    - Followed that with a while loop that breaks out of the loop of an empty string is entered
-    - Otherwise it continues iterating and allows for more inputs which gets outputted in a for loop
-    - File name 'allMyCats2_ch4.py' in the auto-boring-stuff.git repo
+- Still continuing with Lists from "Automating the Boring Stuff with Python". This feels like a long chapter lol.
+  - Reviewed tuples, and converting types with the list() and tuple() function
+  - Clarified that variables do not necessarily store values, but they store 'references' to values. These references are stored in the computers memory (think a container or box)
+  - Noted the id() function that returns the identity of the variable reference
+  - Worth noting again, list methods like append() modify 'in-place'. So if my_list = ['cat', 'dog'] and has an ID of 123, if I run my_list.append('squirrel'), my_list is modified in place, and still contains the same reference ID of 123
+- ** placeholder until I resume my studies. maybe after work
+  - Studying has continued after dinner, where I learned that when using copy() and deepcopy() functions, you are creating an actual duplicate copy of a mutable value like a list; you are not just copying the reference of the list. Meaning the variable holding the original list, and the variable holding the copied list are independent of each other
+
 
 **Thoughts:**
-I took quite a long break from my last round of #66daysofdata. I'm riding this wave of motivation to reestablish this as a habit. My primary goal for this round is to increase my skills with Python.
+Unexpectedly woke up at 6 am, but instead of trying to force myself to go back to sleep, I decided to get up and have an early start to my studies.
+
+This has been a goal for myself for a while to be able to wake up early and code/study before work. Here's hoping I can do this consistently and make it a habit.
+
 
 **Link to work:**
-- GitHub to the auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+- GitHub About Me: https://github.com/veroanalytic
+- GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
 ### Day 2: September 8, 2022
 
@@ -52,24 +56,21 @@ We'll see if I can keep this up
 - GitHub About Me: https://github.com/veroanalytic
 - GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
-### Day 3: September 9, 2022
+
+### Day 1: September 7, 2022
 
 **Today's Progress**:
-- Still continuing with Lists from "Automating the Boring Stuff with Python". This feels like a long chapter lol.
-  - Reviewed tuples, and converting types with the list() and tuple() function
-  - Clarified that variables do not necessarily store values, but they store 'references' to values. These references are stored in the computers memory (think a container or box)
-  - Noted the id() function that returns the identity of the variable reference
-  - Worth noting again, list methods like append() modify 'in-place'. So if my_list = ['cat', 'dog'] and has an ID of 123, if I run my_list.append('squirrel'), my_list is modified in place, and still contains the same reference ID of 123
-- ** placeholder until I resume my studies. maybe after work
-  - Studying has continued after dinner, where I learned that when using copy() and deepcopy() functions, you are creating an actual duplicate copy of a mutable value like a list; you are not just copying the reference of the list. Meaning the variable holding the original list, and the variable holding the copied list are independent of each other
-
+- Created 66-days-of-data repo to track progress on this challenge.
+- Used Git to clone the remote repo down to my local repo. Pushing changes back to GitHub through Git as well.
+- Continuing Chapter 4 of "Automating the Boring Stuff with Python", which is focused on lists.
+  - Working with lists:
+    - Created a variable and assigned it as an empty list []
+    - Followed that with a while loop that breaks out of the loop of an empty string is entered
+    - Otherwise it continues iterating and allows for more inputs which gets outputted in a for loop
+    - File name 'allMyCats2_ch4.py' in the auto-boring-stuff.git repo
 
 **Thoughts:**
-Unexpectedly woke up at 6 am, but instead of trying to force myself to go back to sleep, I decided to get up and have an early start to my studies.
-
-This has been a goal for myself for a while to be able to wake up early and code/study before work. Here's hoping I can do this consistently and make it a habit.
-
+I took quite a long break from my last round of #66daysofdata. I'm riding this wave of motivation to reestablish this as a habit. My primary goal for this round is to increase my skills with Python.
 
 **Link to work:**
-- GitHub About Me: https://github.com/veroanalytic
-- GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+- GitHub to the auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
