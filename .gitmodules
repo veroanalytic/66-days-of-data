@@ -1,0 +1,3 @@
+[submodule "auto-boring-stuff"]
+	path = auto-boring-stuff
+	url = https://github.com/veroanalytic/auto-boring-stuff.git
