@@ -5,16 +5,16 @@
 **Today's Progress**:
 - Decided to skip a head a few chapters, and currently reviewing chapter 9, "Reading and writing files"
   - Learned about the pathlib module, and how it is better practice to use forward slashes in your code, even when working in Windows because it will allow your code to be able to run on other operating systems like macOS and Linux
-
+- Conducted analysis on a worldwide dataset of Monkeypox cases, and the timeline of cases being reported
 
 
 **Thoughts:**
+I enjoyed working within Jupyter Notebooks again. It's definitely been a while. I think I'll continue working on the analytics portion of Python programming instead of the conceptual studying.
 
 
 
 **Link to work:**
-- GitHub About Me: https://github.com/veroanalytic
-- GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+- GitHub monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
 
 ---
 ### Day 3: September 9, 2022
