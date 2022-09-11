@@ -6,7 +6,7 @@
 - Decided to skip a head a few chapters, and currently reviewing chapter 9, "Reading and writing files"
   - Learned about the pathlib module, and how it is better practice to use forward slashes in your code, even when working in Windows because it will allow your code to be able to run on other operating systems like macOS and Linux
 - Conducted analysis on a worldwide dataset of Monkeypox cases, and the timeline of cases being reported
-
+- Set up GitHub Pages for the first time. I will be using this to host a custom domain. 
 
 **Thoughts:**
 I enjoyed working within Jupyter Notebooks again. It's definitely been a while. I think I'll continue working on the analytics portion of Python programming instead of the conceptual studying.
