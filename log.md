@@ -6,6 +6,10 @@
 - Worked on submodules to copy repos I've worked on during this challenge, into my 66-days-of-data repo
   - I'll continue to work on this to clone other repos into my 66-days-of-data repo to track all the projects and progress dedicated to this round of the challenge
 - Still working with GH Pages. I need to figure out how to configure the DNS between GH Pages to my personal domain: http://www.veroanalytic.com/
+- Continued working on analysis of Monkeypox cases worldwide. A few observations:
+  - The U.S has the highest reported cases by 3x
+  - Germany and Italy have the highest hospitalizations
+  - Italy leads the group at 2.2% of cases leading to hospitalization
 
 
 **Thoughts:**
