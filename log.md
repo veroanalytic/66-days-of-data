@@ -10,6 +10,9 @@
   - The U.S has the highest reported cases by 3x
   - Germany and Italy have the highest hospitalizations
   - Italy leads the group at 2.2% of cases leading to hospitalization
+- Worked on cleaning up the "Symptoms" classification of Monkeypox
+  - There are a lot of inconsistencies in the data, so I am attempting to transform similar named symptoms into a shared category to be able to better illustrate which symptoms are most prevalent when contract Monkeypox
+    - Used regex to match to the particular symptoms
 
 
 **Thoughts:**
