@@ -3,6 +3,9 @@
 ### Day 5: September 11, 2022
 
 **Today's Progress**:
+- Worked on submodules to copy repos I've worked on during this challenge, into my 66-days-of-data repo
+  - I'll continue to work on this to clone other repos into my 66-days-of-data repo to track all the projects and progress dedicated to this round of the challenge
+- Still working with GH Pages. I need to figure out how to configure the DNS between GH Pages to my personal domain: http://www.veroanalytic.com/
 
 
 **Thoughts:**
@@ -10,7 +13,9 @@
 
 
 **Link to work:**
-- GitHub monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
+- GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- GH Page: https://veroanalytic.github.io/
+- Personal Domain: http://www.veroanalytic.com/
 
 
 ### Day 4: September 10, 2022
