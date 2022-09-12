@@ -13,16 +13,21 @@
 - Worked on cleaning up the "Symptoms" classification of Monkeypox
   - There are a lot of inconsistencies in the data, so I am attempting to transform similar named symptoms into a shared category to be able to better illustrate which symptoms are most prevalent when contract Monkeypox
     - Used regex to match to the particular symptoms
+- Did more data cleaning of the Monkeypox dataset. In particular, I worked on conforming similar symptoms to a standardized naming convention.
+  - Flu-like symptoms and different forms of skin lesions/ulcers are prevalent.
 
 
 **Thoughts:**
+Spent several hours, in different chunks throughout the day. I am really enjoying doing data analytics in VS Code (Jupyter Notebooks).
 
+I do need to come back and continue my studies of "Automating the Boring Stuff with Python", but for now it will have to "remain on the shelf" so to speak.
 
 
 **Link to work:**
 - GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- GitHub monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
 - GH Page: https://veroanalytic.github.io/
-- Personal Domain: http://www.veroanalytic.com/
+
 
 
 ### Day 4: September 10, 2022
