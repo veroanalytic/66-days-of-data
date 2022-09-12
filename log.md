@@ -1,5 +1,22 @@
 # 66 Days Of Data | Log
 
+### Day 6: September 12, 2022
+
+**Today's Progress**:
+- Received some good feedback on the Monkeypox analysis that I have shared thus far. (Thanks https://twitter.com/meyke9976 😊)
+  - I will work on trying to normalize aspects of the data for the next time I share any results.
+  - For example, hospital bed availability being a factor in hospitalizations of Monkeypox cases.
+- Also, still working on cleaning symptom types in the dataset, and considering the dataset is updated daily, I will need to do a pull of the new data and rerun my analysis up to this point.
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- GitHub monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
+
+
 ### Day 5: September 11, 2022
 
 **Today's Progress**:
