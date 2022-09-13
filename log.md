@@ -14,9 +14,15 @@
   - Portugal: Travel History: 34 / Total Cases: 871
   - Italy: Travel History: 23 / Total Cases: 805
   - Countries with low volume of confirmed cases heavily skew the analysis
+- As a late night session, I decided to start doing exploration of another dataset. This time a movie industry dataset.
+  - I'll be following along with Alex The Analyst's Portfolio project on YouTube: https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=5&t=215s&ab_channel=AlexTheAnalyst
 
 **Thoughts:**
 Headed to the gym, will reflect after.
+
+Still spending several hours a day on doing analytics in VS Code (Jupyter Notebooks plugin), and having a blast. I feel repetition is key to being able to building a efficient and sustainable approach to analysis.
+
+Definitely still in the beginning stages, but I am hopeful to become more proficient with time.
 
 
 **Link to work:**
