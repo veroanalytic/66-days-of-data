@@ -6,10 +6,17 @@
 - Received some good feedback on the Monkeypox analysis that I have shared thus far. (Thanks https://twitter.com/meyke9976 😊)
   - I will work on trying to normalize aspects of the data for the next time I share any results.
   - For example, hospital bed availability being a factor in hospitalizations of Monkeypox cases.
-- Also, still working on cleaning symptom types in the dataset, and considering the dataset is updated daily, I will need to do a pull of the new data and rerun my analysis up to this point.
-
+  - Also, still working on cleaning symptom types in the dataset, and considering the dataset is updated daily, I will need to do a pull of the new data and rerun my analysis up to this point.
+- Continued with more Monkeypox analysis after work, focusing on travel history:
+  - There seems to be very limited evidence of travel history in relation to total cases (less than 1%)
+  - Top 5 countries with attested travel history (by raw counts): U.S, Germany, Portugal, Brazil, Italy
+  - Taking the ratio of travel history by total cases, Portugal and Italy have the highest rate of cases
+  - Portugal: Travel History: 34 / Total Cases: 871
+  - Italy: Travel History: 23 / Total Cases: 805
+  - Countries with low volume of confirmed cases heavily skew the analysis
 
 **Thoughts:**
+Headed to the gym, will reflect after.
 
 
 **Link to work:**
