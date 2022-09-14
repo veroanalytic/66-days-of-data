@@ -1,5 +1,17 @@
 # 66 Days Of Data | Log
 
+### Day 8: September 14, 2022
+
+**Today's Progress**:
+Working on a web scraping project.
+
+**Thoughts:**
+
+
+**Link to work:**
+- GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- GitHub monkey-pox-analysis: https://github.com/veroanalytic/movie-industry-analysis.git
+
 ### Day 7: September 13, 2022
 
 **Today's Progress**:
