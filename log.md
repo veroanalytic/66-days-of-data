@@ -4,14 +4,15 @@
 
 **Today's Progress**:
 - Still taking a break from the Monkeypox analysis, to work on a movie industry dataset
+  - Completed the correlation analysis of this movie industry dataset
 
 
 **Thoughts:**
-
+Changing things up by analyzing a movie industry dataset from Kaggle. I am throwing in a mix of guided projects to bolster the way I think through analyzing different types of datasets and use cases.
 
 **Link to work:**
 - GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
-- GitHub monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
+- GitHub monkey-pox-analysis: https://github.com/veroanalytic/movie-industry-analysis.git
 
 ### Day 6: September 12, 2022
 
