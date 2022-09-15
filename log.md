@@ -5,6 +5,9 @@
 **Today's Progress**:
 Working on a web scraping project.
 - The barebone functionality is working as intended, but I need to spend some serious time refining what I would truly like to scrape, and what to do with the data once I have it.
+Late night coding:
+- I have requested a developer account for CoinMarketCap to have access to their API
+  - I have successfully pulled data from CMC into a dataframe using their pre-configured API start code for Python
 
 **Thoughts:**
 Fighting off the urge to buy another course that I won't end up completing. Instead I'm thinking through a framework of small projects I've done, to dedicate to into one singular, large project endeavor.
