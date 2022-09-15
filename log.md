@@ -4,13 +4,25 @@
 
 **Today's Progress**:
 Working on a web scraping project.
+- The barebone functionality is working as intended, but I need to spend some serious time refining what I would truly like to scrape, and what to do with the data once I have it.
 
 **Thoughts:**
+Fighting off the urge to buy another course that I won't end up completing. Instead I'm thinking through a framework of small projects I've done, to dedicate to into one singular, large project endeavor.
+- Web Scrape an area of interest
+- Store this dataset somewhere
+- Explore the dataset (are there columns of interest?)
+  - Start thinking through questions that I would like the data to answer from these columns
+  - Come up with ideas and choose one or two you'd really like to answer
+  - Clean as needed
+- Come up with a plan to accomplish one of those ideas
+- Run stats off of the data, and visualize it
+  - Answers to those earlier questions should be found here
+
 
 
 **Link to work:**
-- GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
-- GitHub monkey-pox-analysis: https://github.com/veroanalytic/movie-industry-analysis.git
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- Web Scraper: https://github.com/veroanalytic/web-scraper-amazon.git
 
 ### Day 7: September 13, 2022
 
@@ -23,8 +35,8 @@ Working on a web scraping project.
 Changing things up by analyzing a movie industry dataset from Kaggle. I am throwing in a mix of guided projects to bolster the way I think through analyzing different types of datasets and use cases.
 
 **Link to work:**
-- GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
-- GitHub monkey-pox-analysis: https://github.com/veroanalytic/movie-industry-analysis.git
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- movie-industry-analysis: https://github.com/veroanalytic/movie-industry-analysis.git
 
 ### Day 6: September 12, 2022
 
@@ -52,8 +64,8 @@ Definitely still in the beginning stages, but I am hopeful to become more profic
 
 
 **Link to work:**
-- GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
-- GitHub monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
 
 
 ### Day 5: September 11, 2022
@@ -80,8 +92,8 @@ I do need to come back and continue my studies of "Automating the Boring Stuff w
 
 
 **Link to work:**
-- GitHub 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
-- GitHub monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
 - GH Page: https://veroanalytic.github.io/
 
 
@@ -99,7 +111,7 @@ I enjoyed working within Jupyter Notebooks again. It's definitely been a while. 
 
 
 **Link to work:**
-- GitHub monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
+- monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
 
 ---
 ### Day 3: September 9, 2022
@@ -128,8 +140,8 @@ I may start hopping around more towards chapters relating to actual automation, 
 
 
 **Link to work:**
-- GitHub About Me: https://github.com/veroanalytic
-- GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+- About Me: https://github.com/veroanalytic
+- auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
 ---
 ### Day 2: September 8, 2022
@@ -163,8 +175,8 @@ We'll see if I can keep this up.
 
 
 **Link to work:**
-- GitHub About Me: https://github.com/veroanalytic
-- GitHub auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+- About Me: https://github.com/veroanalytic
+- auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
 ---
 ### Day 1: September 7, 2022
@@ -183,4 +195,4 @@ We'll see if I can keep this up.
 I took quite a long break from my last round of #66daysofdata. I'm riding this wave of motivation to reestablish this as a habit. My primary goal for this round is to increase my skills with Python.
 
 **Link to work:**
-- GitHub to the auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
+- auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
