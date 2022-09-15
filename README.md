@@ -1,4 +1,10 @@
-# 66 Days Of Data | Tracking my #66daysofdata challenge
+# 66 Days Of Data<br>
+
+⚡ Tracking my #66daysofdata challenge<br>
+
+⚡ Follow me on Twitter for live updates: https://twitter.com/veroanalytic<br>
+
+---
 
 
 ### Day 9: September 15, 2022
