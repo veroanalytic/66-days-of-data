@@ -1,8 +1,6 @@
-# 66-days-of-data
-
-Tracking my #66daysofdata challenge
-
 # 66 Days Of Data | Log
+Tracking my #66daysofdata challenge
+---
 
 ### Day 9: September 15, 2022
 
