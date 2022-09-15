@@ -1,5 +1,22 @@
 # 66 Days Of Data | Log
 
+### Day 9: September 15, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- Amazon Web Scraper: https://github.com/veroanalytic/web-scraper-amazon.git
+- CoinMarketCap Web Scraper: https://github.com/veroanalytic/coinmarketcap-automated.git
+
+
+---
 ### Day 8: September 14, 2022
 
 **Today's Progress**:
@@ -25,8 +42,11 @@ Fighting off the urge to buy another course that I won't end up completing. Inst
 
 **Link to work:**
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
-- Web Scraper: https://github.com/veroanalytic/web-scraper-amazon.git
+- Amazon Web Scraper: https://github.com/veroanalytic/web-scraper-amazon.git
+- CoinMarketCap Web Scraper: https://github.com/veroanalytic/coinmarketcap-automated.git
 
+
+---
 ### Day 7: September 13, 2022
 
 **Today's Progress**:
@@ -41,6 +61,8 @@ Changing things up by analyzing a movie industry dataset from Kaggle. I am throw
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
 - movie-industry-analysis: https://github.com/veroanalytic/movie-industry-analysis.git
 
+
+---
 ### Day 6: September 12, 2022
 
 **Today's Progress**:
@@ -70,7 +92,7 @@ Definitely still in the beginning stages, but I am hopeful to become more profic
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
 - monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
 
-
+---
 ### Day 5: September 11, 2022
 
 **Today's Progress**:
@@ -100,7 +122,7 @@ I do need to come back and continue my studies of "Automating the Boring Stuff w
 - GH Page: https://veroanalytic.github.io/
 
 
-
+---
 ### Day 4: September 10, 2022
 
 **Today's Progress**:
