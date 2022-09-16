@@ -10,10 +10,20 @@
 ### Day 9: September 15, 2022
 
 **Today's Progress**:
+Still exploring different avenues of pulling data.
+- Leveraged @CoinMarketCap API to pull cryptocurrencies of interest.
+- Thinking through different ways of staging and then analyzing the data
+
+Not enough time today, but more to come.
 
 
 **Thoughts:**
+Bit by bit, every mini-project is starting to have areas of convergence. I will soon document how and what I would like to intersect for a much larger effort.
 
+I think I would also like to start blogging my experiences in this challenge as of now.
+Maybe do a bi-weekly retrospective.
+
+I need to find the time to dedicate to writing, which I worry will knock me off track of my goals with Python and data analysis. 
 
 
 
