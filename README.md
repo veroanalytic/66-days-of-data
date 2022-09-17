@@ -6,7 +6,23 @@
 
 ---
 
+### Day 10: September 16, 2022
 
+**Today's Progress**:
+- Not currently at home, so I couldn't work on my usual slew of projects. Instead did some HackerRank Python exercises.
+
+
+**Thoughts:**
+
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- HackerRank repo: https://github.com/veroanalytic/hacker-rank-python.git
+
+
+---
 ### Day 9: September 15, 2022
 
 **Today's Progress**:
@@ -23,7 +39,7 @@ Bit by bit, every mini-project is starting to have areas of convergence. I will 
 I think I would also like to start blogging my experiences in this challenge as of now.
 Maybe do a bi-weekly retrospective.
 
-I need to find the time to dedicate to writing, which I worry will knock me off track of my goals with Python and data analysis. 
+I need to find the time to dedicate to writing, which I worry will knock me off track of my goals with Python and data analysis.
 
 
 
