@@ -6,6 +6,25 @@
 
 ---
 
+### Day 11: September 17, 2022
+
+**Today's Progress**:
+- Worked on the CoinMarketCap web scraper project
+  - For some reason, my Jupyter kernel was dying whenever I ran the automation portion of the code, so I had to comment it out and run the web-scraper function manually
+  - Even so, moved on and added a process to import the data scraped into a CSV
+  - Did some data cleaning and also some data visualizations of cryptocurrency price changes
+
+
+**Thoughts:**
+
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- CoinMarketCap Web Scraper, Data Cleaning, and Data Viz repo: https://github.com/veroanalytic/coinmarketcap-automated.git
+
+---
 ### Day 10: September 16, 2022
 
 **Today's Progress**:
@@ -13,7 +32,7 @@
 
 
 **Thoughts:**
-
+I'm finding it difficult to solve many of these HackerRank Python exercises. What I am hoping is by doing them and then documenting out how and why the problem was solved will help me comprehending what is logically going on.
 
 
 
