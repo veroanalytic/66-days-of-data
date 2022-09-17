@@ -6,7 +6,7 @@
 
 ---
 
-### Day 11: Saturday, September 17, 2022
+### Day 11 | Saturday | September 17, 2022
 
 **Today's Progress**:
 - Worked on the CoinMarketCap web scraper project
@@ -25,7 +25,7 @@
 - CoinMarketCap Web Scraper, Data Cleaning, and Data Viz repo: https://github.com/veroanalytic/coinmarketcap-automated.git
 
 ---
-### Day 10: Friday, September 16, 2022
+### Day 10 | Friday | September 16, 2022
 
 **Today's Progress**:
 - Not currently at home, so I couldn't work on my usual slew of projects. Instead did some HackerRank Python exercises.
@@ -42,7 +42,7 @@ I'm finding it difficult to solve many of these HackerRank Python exercises. Wha
 
 
 ---
-### Day 9: Thursday, September 15, 2022
+### Day 9 | Thursday | September 15, 2022
 
 **Today's Progress**:
 Still exploring different avenues of pulling data.
@@ -69,7 +69,7 @@ I need to find the time to dedicate to writing, which I worry will knock me off 
 
 
 ---
-### Day 8: Wednesday, September 14, 2022
+### Day 8 | Wednesday | September 14, 2022
 
 **Today's Progress**:
 Working on a web scraping project.
@@ -99,7 +99,7 @@ Fighting off the urge to buy another course that I won't end up completing. Inst
 
 
 ---
-### Day 7: Tuesday, September 13, 2022
+### Day 7 | Tuesday | September 13, 2022
 
 **Today's Progress**:
 - Still taking a break from the Monkeypox analysis, to work on a movie industry dataset
@@ -115,7 +115,7 @@ Changing things up by analyzing a movie industry dataset from Kaggle. I am throw
 
 
 ---
-### Day 6: Monday, September 12, 2022
+### Day 6 | Monday | September 12, 2022
 
 **Today's Progress**:
 - Received some good feedback on the Monkeypox analysis that I have shared thus far. (Thanks https://twitter.com/meyke9976 😊)
@@ -145,7 +145,7 @@ Definitely still in the beginning stages, but I am hopeful to become more profic
 - monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
 
 ---
-### Day 5: Sunday, September 11, 2022
+### Day 5 | Sunday | September 11, 2022
 
 **Today's Progress**:
 - Worked on submodules to copy repos I've worked on during this challenge, into my 66-days-of-data repo
@@ -175,7 +175,7 @@ I do need to come back and continue my studies of "Automating the Boring Stuff w
 
 
 ---
-### Day 4: Saturday, September 10, 2022
+### Day 4 | Saturday | September 10, 2022
 
 **Today's Progress**:
 - Decided to skip a head a few chapters, and currently reviewing chapter 9, "Reading and writing files"
@@ -191,7 +191,7 @@ I enjoyed working within Jupyter Notebooks again. It's definitely been a while. 
 - monkey-pox-analysis: https://github.com/veroanalytic/monkey-pox-analysis.git
 
 ---
-### Day 3: Friday, September 9, 2022
+### Day 3 | Friday | September 9, 2022
 
 **Today's Progress**:
 - Still continuing with Lists from "Automating the Boring Stuff with Python". This feels like a long chapter lol.
@@ -221,7 +221,7 @@ I may start hopping around more towards chapters relating to actual automation, 
 - auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
 ---
-### Day 2: Thursday, September 8, 2022
+### Day 2 | Thursday | September 8, 2022
 
 **Today's Progress**:
 - Updated my GitHub overview page with an About Me: README.md file. I used a generator to get the template, but will continue to alter it as needed.
@@ -256,7 +256,7 @@ We'll see if I can keep this up.
 - auto-boring-stuff repo: https://github.com/veroanalytic/auto-boring-stuff.git
 
 ---
-### Day 1: Wednesady, September 7, 2022
+### Day 1 | Wednesday | September 7, 2022
 
 **Today's Progress**:
 - Created 66-days-of-data repo to track progress on this challenge.
