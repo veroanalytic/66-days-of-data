@@ -13,10 +13,18 @@
   - For some reason, my Jupyter kernel was dying whenever I ran the automation portion of the code, so I had to comment it out and run the web-scraper function manually
   - Even so, moved on and added a process to import the data scraped into a CSV
   - Did some data cleaning and also some data visualizations of cryptocurrency price changes
+    - Used the stack() function to get the data set into a structure that could be better visualized.
+- Also resumed reading of "Automate the Boring Stuff with Python." Currently on ch 5.
+- Working through a Data Analysis with Python tutorial by freeCodeCamp.org, on Youtube:
+  - https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLNHegA0hHsNr0U6mnFBIfAS8l2u8P_WK9&index=2&t=151s&ab_channel=freeCodeCamp.org
 
 
 **Thoughts:**
+Fought the urge to sign up for Google's Data Analytics certificate on Coursera.
 
+Further along in my journey, I will probably give it a shot to at least get the certificate, and to also enhance my skillset with R, the programming language chosen for the certificate.
+
+For now, I am remaining consistent in Python learning/coding and data analysis thinking. 
 
 
 
