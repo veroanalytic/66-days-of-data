@@ -6,6 +6,24 @@
 
 ---
 
+### Day 12 | Sunday | September 18, 2022
+
+**Today's Progress**:
+- Began exploratory analysis of a CMS health insurance dataset, and also started a data analysis Python course on YouTube.
+
+
+
+**Thoughts:**
+
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- Kaggle Notebook - Health Insurance Analysis: https://www.kaggle.com/code/veroanalytic/health-insurance-marketplace-analysis/notebook
+
+
+---
 ### Day 11 | Saturday | September 17, 2022
 
 **Today's Progress**:
@@ -24,7 +42,7 @@ Fought the urge to sign up for Google's Data Analytics certificate on Coursera.
 
 Further along in my journey, I will probably give it a shot to at least get the certificate, and to also enhance my skillset with R, the programming language chosen for the certificate.
 
-For now, I am remaining consistent in Python learning/coding and data analysis thinking. 
+For now, I am remaining consistent in Python learning/coding and data analysis thinking.
 
 
 
