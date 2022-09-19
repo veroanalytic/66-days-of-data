@@ -9,13 +9,17 @@
 ### Day 12 | Sunday | September 18, 2022
 
 **Today's Progress**:
-- Began exploratory analysis of a CMS health insurance dataset, and also started a data analysis Python course on YouTube.
-
+- Began exploratory analysis of a CMS health insurance dataset
+- Started a data analysis Python course on YouTube.
+  - Completed ch1 and ch2 exercises from the "Data Analysis with Python" tutorial
 
 
 **Thoughts:**
+So far, I'm enjoying the YouTube tutorial I am following, while also balancing with analysis on other datasets, like the one I found in Kaggle for CMS health insurance.
 
+The YouTube tutorial has a lot of different examples through each lecture to reinforce what had been discussed. I think they've been very effective, and even in my own separate analysis, I am recalling instances from the tutorial that apply to that analysis.
 
+With continuous repetition in Python coding, analytical thinking, and dedicated consistency, I really am enthusiastic that I am honing skills that I will be able to integrate and persist in my career.
 
 
 **Link to work:**
