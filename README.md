@@ -7,6 +7,19 @@
 ---
 
 
+### Day 14 | Tuesday | September 20, 2022
+
+**Today's Progress**:
+- Working on a Python process that can mock-up a test file for member identifying elements (fname, lname, dob, address, etc.)
+  - Since this is being done on my work computer, I am limited in the libraries that I can use to generate random values
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
 ### Day 13 | Monday | September 19, 2022
 
 **Today's Progress**:
