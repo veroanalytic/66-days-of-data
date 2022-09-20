@@ -6,6 +6,29 @@
 
 ---
 
+
+### Day 13 | Monday | September 19, 2022
+
+**Today's Progress**:
+- Currently on part 3 of the "Data Analysis with Python" tutorial
+  - It's going over Jupyter Notebooks, which I am already familiar with, so I was watching this part at 1.5x speed lol
+  - Luckily, I didn't skip through it because it started going over a cryptowatch API, which I am always up for learning more API's related to crypto that I can tap in to.
+- I also spent time today at my job and methodically chose a simple report that I'm responsible for, and was able to automate the formatting and exporting to Excel.
+  -
+
+
+**Thoughts:**
+Automating a report at my job through Python is huge for me. I had a goal of integrating Python into my day-to-day responsibilities by November, and I have already achieved a small part of that goal.
+
+This is just the beginning. I will keep looking for other ways to improve my work with the use of Python.
+
+I'll also soon be looking into some Tableau upskilling so that I can provide that value to my business stakeholders as well without having to rely on my Tableau engineer teammate.
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+
 ### Day 12 | Sunday | September 18, 2022
 
 **Today's Progress**:
