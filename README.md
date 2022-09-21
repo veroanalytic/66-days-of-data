@@ -10,8 +10,10 @@
 ### Day 14 | Tuesday | September 20, 2022
 
 **Today's Progress**:
-- Working on a Python process that can mock-up a test file for member identifying elements (fname, lname, dob, address, etc.)
+- Built a Python program at work today that would generate a dataframe with mocked up member demographic information (name, gender, address, census tract, etc.)
+  - The process randomizes all of these fields each time it's run, and extracts the df into a csv.
   - Since this is being done on my work computer, I am limited in the libraries that I can use to generate random values
+  - Currently going through sFTP testing with an external vendor, and with this program I'm able to automate the randomizing of member level detail, scale the number of records easily (100k records ran in one second), and generate a unique file each time it is run.
 
 
 **Thoughts:**
