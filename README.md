@@ -29,7 +29,7 @@
   - It's going over Jupyter Notebooks, which I am already familiar with, so I was watching this part at 1.5x speed lol
   - Luckily, I didn't skip through it because it started going over a cryptowatch API, which I am always up for learning more API's related to crypto that I can tap in to.
 - I also spent time today at my job and methodically chose a simple report that I'm responsible for, and was able to automate the formatting and exporting to Excel.
-  -
+
 
 
 **Thoughts:**
