@@ -6,7 +6,20 @@
 
 ---
 
+### Day 15 | Wednesday | September 21, 2022
 
+**Today's Progress**:
+
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+
+---
 ### Day 14 | Tuesday | September 20, 2022
 
 **Today's Progress**:
@@ -35,6 +48,7 @@ One step at a time.
 **Link to work:**
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
 
+---
 ### Day 13 | Monday | September 19, 2022
 
 **Today's Progress**:
@@ -56,7 +70,7 @@ I'll also soon be looking into some Tableau upskilling so that I can provide tha
 **Link to work:**
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
 
-
+---
 ### Day 12 | Sunday | September 18, 2022
 
 **Today's Progress**:
