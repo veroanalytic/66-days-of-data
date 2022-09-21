@@ -14,10 +14,23 @@
   - The process randomizes all of these fields each time it's run, and extracts the df into a csv.
   - Since this is being done on my work computer, I am limited in the libraries that I can use to generate random values
   - Currently going through sFTP testing with an external vendor, and with this program I'm able to automate the randomizing of member level detail, scale the number of records easily (100k records ran in one second), and generate a unique file each time it is run.
+- Continued on with data analysis python tutorial
+  - Completed part 3, and learned about Bokeh, which is a library that generates interactive plots. I'll need to play around with this more
+  - Moved on to part 4 which is focusing on Numpy. So far I learned that Numpy has built a ton of efficiencies in handling numeric data in comparison to base Python (due to Python being a high-level language).
 
 
 **Thoughts:**
+When I received an email from my director to mock up a test file for vendor testing, I knew right away I would want to do this in Python.
 
+Due to the time-sensitivity, I manually mocked up the first one to get the ball rolling. After that, I built out my Python program piece by piece.
+
+This approach paired with lots and lots of googling got me to a finished product that will allow me to generate as many mocked up files as needed.
+
+I think tomorrow I'm going to test the limits on how big of a file I can export out of the dataframe I am creating in the program.
+
+More and more I'm starting to feel like an actual Python programmer, which is an amazing feeling. I will continue to look for areas that Python will improve my day-to-day, but also I will need to find avenues that I can conduct analysis in Python that will be valuable to my stakeholders.
+
+One step at a time.
 
 **Link to work:**
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
