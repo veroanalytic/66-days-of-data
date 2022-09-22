@@ -17,6 +17,7 @@
 
 
 **Thoughts:**
+Depending on the day, it gets really difficult to motivate myself to update this log. The amount of details I share vary depending on that motivation.
 
 
 
