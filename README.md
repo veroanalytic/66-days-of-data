@@ -9,10 +9,15 @@
 ### Day 15 | Wednesday | September 21, 2022
 
 **Today's Progress**:
+- Currently on part 4 of the python analysis tutorial, which is focused on Numpy
+  - I reviewed vectorized operations as well as the handling and slicing of matrices
+- I also ran into an issue where Pandas couldn't handle updating the date format for the following value: '9999-12-31'.
+  - After much googling, I finally realized I could just handle the date conversion on SQL before I pull the data into my dataframe. Problem solved lol.
 
 
 
 **Thoughts:**
+
 
 
 **Link to work:**
