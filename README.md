@@ -6,6 +6,23 @@
 
 ---
 
+### Day 16 | Thursday | September 22, 2022
+
+**Today's Progress**:
+- More Numpy review. Hoping to spend time this weekend away from tutorial watching land and back to working on data analysis projects.
+
+
+
+**Thoughts:**
+Still finding very low motivation in doing any additional journaling here, but that's okay. There's always tomorrow.
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+
+---
+
 ### Day 15 | Wednesday | September 21, 2022
 
 **Today's Progress**:
