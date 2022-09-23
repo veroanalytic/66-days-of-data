@@ -6,6 +6,19 @@
 
 ---
 
+### Day 17 | Friday | September 23, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+
+---
+
 ### Day 16 | Thursday | September 22, 2022
 
 **Today's Progress**:
