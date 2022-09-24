@@ -9,9 +9,16 @@
 ### Day 17 | Friday | September 23, 2022
 
 **Today's Progress**:
+Didn't work on anything data analytics related, but I did work on sprucing up my resume.
 
 
 **Thoughts:**
+So I've been working as a data analyst for about a year in my current company. Previously, I worked as a systems analyst for over four years in the same company.
+
+However, I was recently informed that a position has opened up in my company, which would be a promotion to my current role. The caveat being, I may not necessarily be functioning as a data analyst, but more as a business consultant.
+
+In such a large organization, the titles of positions are very fluid and can mean different things depending on which department you are in. Still, this opportunity is enticing enough for me to take the steps to prepare for a potential interview.
+
 
 **Link to work:**
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
