@@ -6,9 +6,26 @@
 
 ---
 
+### Day 19 | Sunday | September 25, 2022
+
+**Today's Progress**:
+
+
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+
+---
+
 ### Day 18 | Saturday | September 24, 2022
 
 **Today's Progress**:
+Did some HackerRank exercises and finished the first draft of my resume.
 
 
 **Thoughts:**
