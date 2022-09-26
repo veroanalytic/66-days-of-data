@@ -9,16 +9,20 @@
 ### Day 19 | Sunday | September 25, 2022
 
 **Today's Progress**:
-
+- Began data exploration and cleaning of a survey dataset that has captured responses of a person's behavioral health, physical health, and a multitude of other conditions.
+- Completed Numpy lecture and exercises and have moved on to the Pandas lecture
+  - First part of the lecture went over ways to create, index, and manipulate Pandas Series
+- Worked on my resume and made quite a few changes. One more evening working on it and I think it should be completed
 
 
 **Thoughts:**
 
 
 
+
 **Link to work:**
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
-
+- BRFSS analysis: https://github.com/veroanalytic/analytics-template
 
 ---
 
@@ -28,8 +32,9 @@
 Did some HackerRank exercises and finished the first draft of my resume.
 
 
-**Thoughts:**
 
+**Thoughts:**
+Today was a busy day outside so my attention was not fully on studying.
 
 
 **Link to work:**
