@@ -6,6 +6,21 @@
 
 ---
 
+### Day 20 | Monday | September 26, 2022
+
+**Today's Progress**:
+
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+- BRFSS analysis: https://github.com/veroanalytic/analytics-template
+
+---
+
 ### Day 19 | Sunday | September 25, 2022
 
 **Today's Progress**:
@@ -16,8 +31,7 @@
 
 
 **Thoughts:**
-
-
+Today was much more productive than yesterday. I started with a grabbing a new dataset to analyze and begin trying to form a standardized and reusable approach to data analysis. Later on the evening I resumed my guided tutorial of python data analysis. Finally, I wrapped up the evening sprucing up my resume.
 
 
 **Link to work:**
