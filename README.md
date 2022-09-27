@@ -9,15 +9,16 @@
 ### Day 20 | Monday | September 26, 2022
 
 **Today's Progress**:
-
+- Learned to use SQL Server Data Tools (SSDT) in Visual Studio, to create a SSIS package that would load CSV files into a SQL table.
+  - Utilizing a foreach loop container allows the package to load similar formatted files that are stored in the same location.
+- Began going over Pandas data frame in the tutorial I am following. I will be paying close attention here to strengthen my foundational knowledge of Pandas as it is my most used library so far as a data analyst.
 
 
 **Thoughts:**
-
+Slowly but surely, I am integrating tools into my day-to-day that I previously relied on other to execute. Only scratching the surface, but I will be making this a constant effort to become a more proficient analyst.
 
 **Link to work:**
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
-- BRFSS analysis: https://github.com/veroanalytic/analytics-template
 
 ---
 
