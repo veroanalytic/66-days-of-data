@@ -6,6 +6,19 @@
 
 ---
 
+### Day 21 | Tuesday | September 27, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 20 | Monday | September 26, 2022
 
 **Today's Progress**:
