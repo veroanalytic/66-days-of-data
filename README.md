@@ -10,8 +10,14 @@
 
 **Today's Progress**:
 
+Back to more Python learning.
+
+Hoping to wrap up this short course by next Wednesday, but the pace I'm going is slower and more deliberate to make sure I'm doing all the exercises to reinforce my comprehension.
+
 
 **Thoughts:**
+
+Tired brain after a long day. I'm wondering if I should somehow move this journaling to the morning of the next day to write something more substantial after having a nights rest.
 
 
 **Link to work:**
