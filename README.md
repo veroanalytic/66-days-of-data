@@ -9,10 +9,12 @@
 ### Day 22 | Wednesday | September 28, 2022
 
 **Today's Progress**:
+More data importing, plotting, and cleaning with pandas. All still lesson based, but picking up good bits that I'll be using on my weekend projects.
 
 
 
 **Thoughts:**
+Well I didn't wake up early, and I still have low motivation to journal here lol.
 
 
 **Link to work:**
