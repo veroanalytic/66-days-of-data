@@ -9,11 +9,13 @@
 ### Day 23 | Thursday | September 29, 2022
 
 **Today's Progress**:
-
+Briefly touched on recursive functions in Python, but mainly continued on with practice in handling of missing data with Pandas.
 
 
 **Thoughts:**
+Spent time today getting my teammates at work access to Anaconda. I'm really excited about this because the more my team gets involved with using Python, the more I see it becoming a regular skillset to solve for our different business problems.
 
+Meaning a better chance at accelerating my Python skills through actual work application!
 
 
 **Link to work:**
