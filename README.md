@@ -6,6 +6,37 @@
 
 ---
 
+### Day 25 | Saturday | October 1, 2022
+
+**Today's Progress**:
+
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+
+### Day 24 | Friday | September 30, 2022
+
+**Today's Progress**:
+Starting a weekend project utilizing Python to mock up a csv with elements of: member_id, fname, lname, dob, cost, servicedt, batchid
+
+I'll be loading this into my local SQL environment to do analysis on the data using aggregate and window functions.
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 23 | Thursday | September 29, 2022
 
 **Today's Progress**:
