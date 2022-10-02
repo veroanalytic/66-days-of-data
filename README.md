@@ -6,7 +6,7 @@
 
 ---
 
-### Day 25 | Saturday | October 1, 2022
+### Day 26 | Sunday | October 2, 2022
 
 **Today's Progress**:
 
@@ -16,6 +16,23 @@
 
 
 **Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+### Day 25 | Saturday | October 1, 2022
+
+**Today's Progress**:
+Picked up from last weekend, cleaning and exploring the survey dataset, Behavioral Risk Factor Surveillance System (BRFSS).
+
+Standardizing data values on columns of interest, and inputting that data into a visual to view trend.
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- BRFSS GitHub: https://github.com/veroanalytic/analytics-template/tree/main/brfss
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
 
 ---
