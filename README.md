@@ -9,7 +9,8 @@
 ### Day 26 | Sunday | October 2, 2022
 
 **Today's Progress**:
-
+Read an article introducing the different types of SQL Windows functions and applicable use cases for each. This was a good review since I will be spending this week  analyzing a small dataset gathered by a new stakeholder.
+- https://www.analyticsvidhya.com/blog/2020/12/window-function-a-must-know-sql-concept/
 
 
 **Thoughts:**
