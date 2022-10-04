@@ -9,6 +9,9 @@
 ### Day 27 | Monday | October 3, 2022
 
 **Today's Progress**:
+More SQL window functions and Python.
+- Created a column in SQL that aggregated the number of times a person appeared in a dataset, and averaged the cost within those different occurrence buckets.
+- For Python, I reviewed OOP interfacing with matplotlib.
 
 
 **Thoughts:**
