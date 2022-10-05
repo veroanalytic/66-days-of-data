@@ -15,7 +15,7 @@ Finally finished the Data Analysis with Python course provided by freeCodeCamp.o
 
 
 **Thoughts:**
-For now, I am done with taking Python courses. I have enough base knowledge to undertake tasks and projects, and most of my efforts will be to assess when Python can be of use, and then honing in its implementation.
+With enough base knowledge to undertake tasks and projects, my continued efforts will be assessing when Python can be of use, and then honing in on its implementation.
 
 
 **Link to work:**
