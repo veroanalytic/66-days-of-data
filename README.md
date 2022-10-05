@@ -9,9 +9,13 @@
 ### Day 28 | Tuesday | October 4, 2022
 
 **Today's Progress**:
+Finally finished the Data Analysis with Python course provided by freeCodeCamp.org on YouTube.
+- https://www.youtube.com/watch?v=r-uOLxNrNk8&list=LL&index=9&t=1495s&ab_channel=freeCodeCamp.org
+
 
 
 **Thoughts:**
+For now, I am done with taking Python courses. I have enough base knowledge to undertake tasks and projects, and most of my efforts will be to assess when Python can be of use, and then honing in its implementation.
 
 
 **Link to work:**
