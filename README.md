@@ -9,7 +9,7 @@
 ### Day 29 | Wednesday | October 5, 2022
 
 **Today's Progress**:
-
+Working through Alex's Tableau Tutorial playlist: https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
 
 
 **Thoughts:**
