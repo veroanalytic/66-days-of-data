@@ -6,9 +6,25 @@
 
 ---
 
+### Day 32 | Saturday | October 8, 2022
+
+**Today's Progress**:
+
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 31 | Friday | October 7, 2022
 
 **Today's Progress**:
+Another late and brief study session. Decided to resume reading of “Automate the Boring Stuff with Python.”
+- Reviewed the get() and setdefault() method of a dictionary.
 
 
 **Thoughts:**
@@ -22,11 +38,12 @@
 ### Day 30 | Thursday | October 6, 2022
 
 **Today's Progress**:
-Feeling like I've hit a new chapter in this challenge, I'm going to spend this next block of time familiarizing myself with Tableau through Alex The Analyst's YouTube series.
-- https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
+Moving right along in the Tableau series, I briefly went over the use of bins and calculated fields.
 
 
 **Thoughts:**
+It's been a long day so this was just the little bit of studying I needed to close out the evening.
+
 
 
 **Link to work:**
