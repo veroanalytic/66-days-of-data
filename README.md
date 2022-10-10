@@ -6,6 +6,19 @@
 
 ---
 
+### Day 34 | Monday | October 10, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 33 | Sunday | October 9, 2022
 
 **Today's Progress**:
