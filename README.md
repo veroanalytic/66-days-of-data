@@ -6,10 +6,25 @@
 
 ---
 
-### Day 32 | Saturday | October 8, 2022
+### Day 33 | Sunday | October 9, 2022
 
 **Today's Progress**:
 
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+### Day 32 | Saturday | October 8, 2022
+
+**Today's Progress**:
+Worked with list comprehensions on HackerRank.
+
+Admittedly, these past few days I’m not accomplishing as much as I’d like, but with things being as busy as they are I’ll settle with keeping the habit going.
 
 
 **Thoughts:**
