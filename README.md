@@ -9,6 +9,12 @@
 ### Day 33 | Sunday | October 9, 2022
 
 **Today's Progress**:
+Halfway through the challenge, it feels appropriate to do a retrospective of skills I have gained more Python proficiency with:
+- data importing through different file types and API's
+- data cleaning and analysis using Pandas
+- file generation automation
+
+With this retrospective, I am trying to address what I feel to be one of my biggest mistakes when undertaking this challenge last year. Not taking time to reflect and appreciate the progress being made.
 
 
 **Thoughts:**
