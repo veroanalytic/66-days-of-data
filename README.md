@@ -6,9 +6,27 @@
 
 ---
 
+### Day 35 | Tuesday | October 11, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 34 | Monday | October 10, 2022
 
 **Today's Progress**:
+Continued with Tableau and Python this evening.
+
+With Tableau, I explored different types of visualizations and practiced using the Marks section for customization.
+
+For Python, I practiced two different solutions to solve a HackerRank problem: list comprehension / sorted() and set()
 
 
 **Thoughts:**
