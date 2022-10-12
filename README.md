@@ -9,9 +9,15 @@
 ### Day 35 | Tuesday | October 11, 2022
 
 **Today's Progress**:
+Brain is mush from reformatting someone's 1000 line SQL script in order to better comprehend what is going on. Subquery after subquery..x10. What a nightmare 😢
 
+Ironically, my Tableau review was focused on joins, which brought me right back into SQL.
+
+Also read this article comparing subqueries vs joins.
+- https://www.essentialsql.com/rewrite-subquery-as-join/
 
 **Thoughts:**
+Look into TabPy
 
 
 **Link to work:**
