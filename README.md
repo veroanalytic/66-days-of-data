@@ -6,6 +6,20 @@
 
 ---
 
+### Day 36 | Wednesday | October 12, 2022
+
+**Today's Progress**:
+
+
+
+**Thoughts:**
+Look into TabPy
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+
 ### Day 35 | Tuesday | October 11, 2022
 
 **Today's Progress**:
@@ -17,7 +31,6 @@ Also read this article comparing subqueries vs joins.
 - https://www.essentialsql.com/rewrite-subquery-as-join/
 
 **Thoughts:**
-Look into TabPy
 
 
 **Link to work:**
