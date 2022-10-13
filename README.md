@@ -1,4 +1,4 @@
-# 66 Days Of Data<br>
+cd# 66 Days Of Data<br>
 
 ⚡ Tracking my #66daysofdata challenge<br>
 
@@ -9,6 +9,12 @@
 ### Day 36 | Wednesday | October 12, 2022
 
 **Today's Progress**:
+
+Going through a video that goes over beginner mistakes while using Pandas.
+
+It's a short video, but I'm going through it slow and taking notes that I can refer to later.
+
+https://youtube.com/watch?v=_gaAoJBMJ_Q&list=WL&index=7&ab_channel=MedallionDataScience
 
 
 
