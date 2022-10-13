@@ -6,6 +6,27 @@ cd# 66 Days Of Data<br>
 
 ---
 
+### Day 37 | Thursday | October 13, 2022
+
+**Today's Progress**:
+
+Going through a video that goes over beginner mistakes while using Pandas.
+
+It's a short video, but I'm going through it slow and taking notes that I can refer to later.
+
+https://youtube.com/watch?v=_gaAoJBMJ_Q&list=WL&index=7&ab_channel=MedallionDataScience
+
+
+
+**Thoughts:**
+Look into TabPy
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 36 | Wednesday | October 12, 2022
 
 **Today's Progress**:
@@ -25,6 +46,7 @@ Look into TabPy
 **Link to work:**
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
 
+---
 
 ### Day 35 | Tuesday | October 11, 2022
 
