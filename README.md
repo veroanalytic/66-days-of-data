@@ -9,13 +9,13 @@ cd# 66 Days Of Data<br>
 ### Day 37 | Thursday | October 13, 2022
 
 **Today's Progress**:
+Day 37 | #66daysofdata
 
-Going through a video that goes over beginner mistakes while using Pandas.
+Finished watching a video called "25 Nooby Pandas Coding Mistakes You Should Avoid".
 
-It's a short video, but I'm going through it slow and taking notes that I can refer to later.
+Lots of good tips in such a short video.
 
 https://youtube.com/watch?v=_gaAoJBMJ_Q&list=WL&index=7&ab_channel=MedallionDataScience
-
 
 
 **Thoughts:**
@@ -40,7 +40,6 @@ https://youtube.com/watch?v=_gaAoJBMJ_Q&list=WL&index=7&ab_channel=MedallionData
 
 
 **Thoughts:**
-Look into TabPy
 
 
 **Link to work:**
