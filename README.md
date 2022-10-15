@@ -9,9 +9,15 @@ cd# 66 Days Of Data<br>
 ### Day 38 | Friday | October 14, 2022
 
 **Today's Progress**:
+In an attempt to write cleaner code, I am going through a series on Python software design.
+
+Reviewed concepts of cohesion and coupling, which can be interpreted as how easily can your code be understood, changed, or extended.
+
+https://www.youtube.com/watch?v=eiDyK_ofPPM&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&ab_channel=ArjanCodes
 
 
 **Thoughts:**
+Look into TabPy
 
 
 **Link to work:**
@@ -33,7 +39,6 @@ https://youtube.com/watch?v=_gaAoJBMJ_Q&list=WL&index=7&ab_channel=MedallionData
 
 
 **Thoughts:**
-Look into TabPy
 
 
 **Link to work:**
