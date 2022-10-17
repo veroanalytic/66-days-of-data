@@ -6,6 +6,34 @@ cd# 66 Days Of Data<br>
 
 ---
 
+### Day 40 | Sunday | October 16, 2022
+
+**Today's Progress**:
+Worked on raising the cohesion and lowering the coupling of a few Python classes.
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+### Day 39 | Saturday | October 15, 2022
+
+**Today's Progress**:
+Worked on raising the cohesion and lowering the coupling of a few Python classes.
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 38 | Friday | October 14, 2022
 
 **Today's Progress**:
