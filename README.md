@@ -6,12 +6,28 @@ cd# 66 Days Of Data<br>
 
 ---
 
+### Day 41 | Monday | October 17, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 40 | Sunday | October 16, 2022
 
 **Today's Progress**:
 Completed watching and practicing through the first video of a series regarding the implementation of better software design in Python.
 
 https://youtube.com/watch?v=eiDyK_ofPPM&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&ab_channel=ArjanCodes
+
+https://pbs.twimg.com/media/FfPYn5QWYAQ3f__?format=png&name=900x900
+
 
 **Thoughts:**
 
