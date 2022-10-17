@@ -9,7 +9,9 @@ cd# 66 Days Of Data<br>
 ### Day 40 | Sunday | October 16, 2022
 
 **Today's Progress**:
-Worked on raising the cohesion and lowering the coupling of a few Python classes.
+Completed watching and practicing through the first video of a series regarding the implementation of better software design in Python.
+
+https://youtube.com/watch?v=eiDyK_ofPPM&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&ab_channel=ArjanCodes
 
 **Thoughts:**
 
