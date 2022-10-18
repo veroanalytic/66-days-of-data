@@ -9,6 +9,12 @@ cd# 66 Days Of Data<br>
 ### Day 41 | Monday | October 17, 2022
 
 **Today's Progress**:
+Worked with the principle of Dependency Inversion using abstract base classes in Python.
+
+Creating an abstract base class helps with removing dependency (coupling) between classes, ensuring better design in code reusability.
+youtube.com
+
+https://www.youtube.com/watch?v=Kv5jhbSkqLE&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&index=3&ab_channel=ArjanCodes
 
 **Thoughts:**
 
