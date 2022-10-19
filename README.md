@@ -6,6 +6,19 @@ cd# 66 Days Of Data<br>
 
 ---
 
+### Day 43 | Wednesday | October 19, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 42 | Tuesday | October 18, 2022
 
 **Today's Progress**:
