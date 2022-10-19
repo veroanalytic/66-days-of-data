@@ -9,7 +9,20 @@ cd# 66 Days Of Data<br>
 ### Day 42 | Tuesday | October 18, 2022
 
 **Today's Progress**:
+Watched a quick video around deploying software products faster by optimizing your code for change above all else.
 
+Learning more about your customer, implement features that tell you more about their needs, and continue to iterate as you learn more.
+
+
+4 steps to work towards optimizing for change:
+1. Develop what you want to measure
+2. Rely on widely used libraries and tools
+3. Design the structure of your software
+4. Design for the future
+
+https://www.youtube.com/watch?v=MU20ah5s9ww&ab_channel=ArjanCodes
+
+https://pbs.twimg.com/media/FfZhxyWWQAQrrlg?format=png&name=small
 
 **Thoughts:**
 
