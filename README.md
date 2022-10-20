@@ -10,6 +10,13 @@ cd# 66 Days Of Data<br>
 
 **Today's Progress**:
 
+Pretty unexpected account suspension on my second account where I was only posting updates of my data studies. 😅
+
+Appeal has been put in, but for now I'll start posting my updates to the challenge on this account again.
+
+Spent the evening reviewing the "Strategy" design pattern in Python.
+https://www.youtube.com/watch?v=WQ8bNdxREHU&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&index=3&ab_channel=ArjanCodes
+
 **Thoughts:**
 
 
