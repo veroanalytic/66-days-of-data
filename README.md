@@ -9,7 +9,15 @@ cd# 66 Days Of Data<br>
 ### Day 44 | Thursday | October 20, 2022
 
 **Today's Progress**:
+Revisited an old net user command I use to run to output all of the active directory groups associated with a user.
 
+I then created a Python script that read the output into a df, cleaned it, and returned if a user belonged to a group of interest.
+
+The purpose of this was to verify the level of security access of multiple users.
+
+Back in the day I used to go through the very tedious and messy process of manually scanning the cmd line output or paste it into an Excel to search for the values I was interested in.
+
+❤️🐍
 
 **Thoughts:**
 
