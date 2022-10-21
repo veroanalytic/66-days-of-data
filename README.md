@@ -19,6 +19,10 @@ Back in the day I used to go through the very tedious and messy process of manua
 
 ❤️🐍
 
+I also continued with learning about strategy design pattern from Arjan. After this video lesson, I will take a step back and refresh myself with classes, since these are being used very often in these software design videos.
+
+https://www.youtube.com/watch?v=WQ8bNdxREHU&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&index=3&ab_channel=ArjanCodes
+
 **Thoughts:**
 
 
