@@ -2,7 +2,7 @@ cd# 66 Days Of Data<br>
 
 ⚡ Tracking my #66daysofdata challenge<br>
 
-⚡ Follow me on Twitter for live updates: https://twitter.com/veroanalytic<br>
+⚡ Follow me on Twitter for live updates: https://twitter.com/jasonvero<br>
 
 ---
 
@@ -15,8 +15,6 @@ Reviewed the Strategy design pattern:
 - Used type hints
 
 This is through the completion of the following video by Arjan: https://www.youtube.com/watch?v=WQ8bNdxREHU&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&index=4&ab_channel=ArjanCodes
-
-
 
 **Thoughts:**
 
