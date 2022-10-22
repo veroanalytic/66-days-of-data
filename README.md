@@ -1,4 +1,4 @@
-cd# 66 Days Of Data<br>
+# 66 Days Of Data<br>
 
 ⚡ Tracking my #66daysofdata challenge<br>
 
