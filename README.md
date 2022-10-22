@@ -9,6 +9,13 @@ cd# 66 Days Of Data<br>
 ### Day 45 | Friday | October 21, 2022
 
 **Today's Progress**:
+Reviewed the Strategy design pattern:
+- Updated a script to have better cohesion by breaking a large function into smaller functions with specific processing strategy tasks
+- Designed one with classes and another with just functions
+- Used type hints
+
+This is through the completion of the following video by Arjan: https://www.youtube.com/watch?v=WQ8bNdxREHU&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&index=4&ab_channel=ArjanCodes
+
 
 
 **Thoughts:**
