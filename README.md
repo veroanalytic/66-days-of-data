@@ -6,6 +6,36 @@
 
 ---
 
+### Day 47 | Sunday | October 23, 2022
+
+**Today's Progress**:
+
+
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+### Day 46 | Saturday | October 22, 2022
+
+**Today's Progress**:
+Created a 🏡mortgage calculator which only brought me sadness.
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- financial-calculator: https://github.com/veroanalytic/financial-calculator
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 45 | Friday | October 21, 2022
 
 **Today's Progress**:
