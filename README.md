@@ -19,6 +19,7 @@ Combined with the mortgage calculator, I want to know what houses are realistic 
 
 
 **Link to work:**
+- financial-calculator: https://github.com/veroanalytic/financial-calculator
 - 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
 
 ---
