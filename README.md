@@ -9,7 +9,9 @@
 ### Day 47 | Sunday | October 23, 2022
 
 **Today's Progress**:
+Expanded my calculator program to include a wage calculator.
 
+Combined with the mortgage calculator, I want to know what houses are realistic to go after from a financial perspective, versus which ones would result in being house poor.
 
 
 **Thoughts:**
