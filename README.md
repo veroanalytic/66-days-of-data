@@ -9,6 +9,7 @@
 ### Day 48 | Monday | October 24, 2022
 
 **Today's Progress**:
+Studying the "Observer" pattern in Python.
 
 **Thoughts:**
 
