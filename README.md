@@ -6,7 +6,22 @@
 
 ---
 
-### Day 49 | Monday | October 24, 2022
+### Day 50 | Wednesday | October 26, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+
+### Day 49 | Tuesday | October 25, 2022
 
 **Today's Progress**:
 Working on a project that requires the use of multiple modules, so I'm leveraging Python's package functionality.
