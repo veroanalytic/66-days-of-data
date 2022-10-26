@@ -9,6 +9,11 @@
 ### Day 49 | Monday | October 24, 2022
 
 **Today's Progress**:
+Working on a project that requires the use of multiple modules, so I'm leveraging Python's package functionality.
+
+Below article briefly goes over differences between modules and packages.
+
+https://www.scaler.com/topics/module-and-package-in-python/
 
 
 **Thoughts:**
