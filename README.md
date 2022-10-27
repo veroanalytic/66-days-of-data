@@ -9,7 +9,13 @@
 ### Day 50 | Wednesday | October 26, 2022
 
 **Today's Progress**:
+16 more days left! It's been a very rewarding challenge thus far and I'm glad I revisited it.
 
+For this evening, I finished reviewing the Observer Pattern strategy, leveraging event systems to help break out modules and functions into scalable tasks.
+
+Arjan does a great job at presenting this lesson and giving you an example to follow along with.
+
+https://www.youtube.com/watch?v=oNalXg67XEE&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N&index=5&ab_channel=ArjanCodes
 
 **Thoughts:**
 
