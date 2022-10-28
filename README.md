@@ -9,7 +9,9 @@
 ### Day 51 | Thursday | October 27, 2022
 
 **Today's Progress**:
+Taking a break from software design strategy studies and decided to go back and bolster my comprehension around object oriented programming, starting with Classes.
 
+Following along to Corey Schafer's series on YouTube:  https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
 
 **Thoughts:**
 
