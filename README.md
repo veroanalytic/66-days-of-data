@@ -6,6 +6,20 @@
 
 ---
 
+### Day 52 | Friday | October 28, 2022
+
+**Today's Progress**:
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+
 ### Day 51 | Thursday | October 27, 2022
 
 **Today's Progress**:
