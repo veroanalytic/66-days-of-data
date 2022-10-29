@@ -9,6 +9,9 @@
 ### Day 52 | Friday | October 28, 2022
 
 **Today's Progress**:
+Spent the evening working with SQL. Utilizing the LAG window function to create a column that takes the difference of the the previous row’s aggregated value.
+
+I needed a way to represent the amount of product being accrued for a given week.
 
 **Thoughts:**
 
