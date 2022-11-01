@@ -9,6 +9,9 @@
 ### Day 55 | Monday | October 31, 2022
 
 **Today's Progress**:
+Feeling a little burnt out with Python studies. Instead, I read an article instead on SQL windows functions. I'm using these more and more in my day to day work, so it's always good to refresh the different applications of each.
+
+https://hipiyushjain.medium.com/sql-windows-functions-explained-like-you-are-5-af6f034fa7d7
 
 **Thoughts:**
 
