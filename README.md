@@ -6,6 +6,24 @@
 
 ---
 
+### Day 56 | Tuesday | November 1, 2022
+
+**Today's Progress**:
+
+Was really close to skipping today just due to sheer laziness. Decided against it, and instead finished watching this video on Python classes and instances.
+
+https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=3s&ab_channel=CoreySchafer
+
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 55 | Monday | October 31, 2022
 
 **Today's Progress**:
