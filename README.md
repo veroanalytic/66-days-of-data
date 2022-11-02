@@ -6,6 +6,20 @@
 
 ---
 
+### Day 57 | Wednesday | November 2, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 56 | Tuesday | November 1, 2022
 
 **Today's Progress**:
