@@ -9,7 +9,8 @@
 ### Day 57 | Wednesday | November 2, 2022
 
 **Today's Progress**:
-
+Learned differences between Python class variables and instance variables, with specific use-cases where you might favor one over the other.
+https://www.youtube.com/watch?v=BJ-VvGyQxho&ab_channel=CoreySchafer
 
 **Thoughts:**
 
