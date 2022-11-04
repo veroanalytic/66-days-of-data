@@ -6,10 +6,24 @@
 
 ---
 
+### Day 59 | Friday | November 4, 2022
+
+**Today's Progress**:
+Refactor a SQL script to combine three report extracts into one.
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 58 | Thursday | November 3, 2022
 
 **Today's Progress**:
-
+Refactor a SQL script to combine three report extracts into one.
 
 **Thoughts:**
 
