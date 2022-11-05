@@ -9,7 +9,7 @@
 ### Day 60 | Saturday | November 5, 2022
 
 **Today's Progress**:
-
+Working on an investment portfolio app.
 
 **Thoughts:**
 
