@@ -9,6 +9,7 @@
 ### Day 61 | Sunday | November 6, 2022
 
 **Today's Progress**:
+Worked on conditional statements to highlight areas in my investment allocations that are gaining or losing value.
 
 
 **Thoughts:**
