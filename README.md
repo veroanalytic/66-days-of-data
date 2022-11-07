@@ -6,6 +6,21 @@
 
 ---
 
+### Day 62 | Monday | November 7, 2022
+
+**Today's Progress**:
+Worked on conditional statements to highlight areas in my investment allocations that are gaining or losing value.
+
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 61 | Sunday | November 6, 2022
 
 **Today's Progress**:
