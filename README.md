@@ -9,7 +9,10 @@
 ### Day 62 | Monday | November 7, 2022
 
 **Today's Progress**:
-Worked on conditional statements to highlight areas in my investment allocations that are gaining or losing value.
+Reviewing the differences between regular methods in a function versus class methods:
+
+- Regular methods take the instance as the first argument, passed as "self".
+- Class methods take the class as the first argument, passed as "cls". gaining or losing value.
 
 
 **Thoughts:**
