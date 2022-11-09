@@ -9,8 +9,9 @@
 ### Day 63 | Tuesday | November 8, 2022
 
 **Today's Progress**:
+Read the following article and learned about the aggregate function, STRING_AGG(), as well as ROLLUP() which is a sub-clause of GROUP BY.
 
-
+https://towardsdev.com/useful-database-sql-tricks-for-data-engineering-83fa671cc1d7
 
 **Thoughts:**
 
