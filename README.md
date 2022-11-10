@@ -9,7 +9,7 @@
 ### Day 64 | Wednesday | November 9, 2022
 
 **Today's Progress**:
-
+Dealing with data being transformed incorrectly. I.e., leading zeros from a .CSV format being dropped when being converted from a .TXT pipe delimited format.
 
 **Thoughts:**
 
