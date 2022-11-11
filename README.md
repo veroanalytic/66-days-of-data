@@ -6,10 +6,24 @@
 
 ---
 
+### Day 66 | Friday | November 11, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 65 | Thursday | November 10, 2022
 
 **Today's Progress**:
-Did more work on my investment portfolio project. Hand picked a few stocks that I would like to track percent changes over different time intervals. 
+Did more work on my investment portfolio project. Hand picked a few stocks that I would like to track percent changes over different time intervals.
 
 **Thoughts:**
 
