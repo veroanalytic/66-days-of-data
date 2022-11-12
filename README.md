@@ -9,6 +9,9 @@
 ### Day 66 | Friday | November 11, 2022
 
 **Today's Progress**:
+And with that, this challenge is complete. Admittedly, the latter half of the challenge saw a steep drop in length of study/practice.
+
+Either way, I've accomplished my primary goal, which was to integrate Python automation to optimize my day-to-day job.
 
 
 **Thoughts:**
