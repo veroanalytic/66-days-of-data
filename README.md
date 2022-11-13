@@ -6,6 +6,20 @@
 
 ---
 
+### Day 68 | Sunday | November 13, 2022
+
+**Today's Progress**:
+Worked more on my stock tracking project.
+- Worked on decoupling and separating tasks that were consolidated in one main function into multiple smaller functions.
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 67 | Saturday | November 12, 2022
 
 **Today's Progress**:
