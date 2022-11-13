@@ -6,6 +6,26 @@
 
 ---
 
+### Day 67 | Saturday | November 12, 2022
+
+**Today's Progress**:
+Having some fun with Streamlit.
+
+Using Pandas to import yfinance data on stocks of interest, exporting that data into a .csv, and then writing it into Streamlit.
+
+Created a few derived columns based on rolling average calculations for different time intervals.
+
+**Thoughts:**
+Though my challenge is over, I still am enjoying the habit of self study, practice, and just being able to build things.
+
+With that in mind, I will continue to track those efforts on this readme.md file so that I can refer to it in the future if needed.
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 66 | Friday | November 11, 2022
 
 **Today's Progress**:
