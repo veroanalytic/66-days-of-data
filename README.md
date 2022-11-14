@@ -9,10 +9,27 @@
 ### Day 68 | Sunday | November 13, 2022
 
 **Today's Progress**:
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+
+### Day 68 | Sunday | November 13, 2022
+
+**Today's Progress**:
 Worked more on my stock tracking project.
 - Worked on decoupling and separating tasks that were consolidated in one main function into multiple smaller functions.
 
 **Thoughts:**
+More code refactoring. 
+- While building my projects up, I start in Jupyter notebooks.
+- But D.R.Y principle is typically not followed during this process.
+- Eventually, I copy the code to a .py file to find areas to optimize design.
 
 
 **Link to work:**
