@@ -6,9 +6,27 @@
 
 ---
 
-### Day 68 | Sunday | November 13, 2022
+### Day 69 | Tuesday | November 15, 2022
 
 **Today's Progress**:
+Definitely noticing some coupling issues in my financial portfolio app.
+After retroactively renaming a few columns, I had to pinpoint several different modules where the columns were hardcoded 
+- Need to look into approaches to prevent this from happening.
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+### Day 68 | Monday | November 14, 2022
+
+**Today's Progress**:
+Worked more with my yfinance library. There's just so many different methods to explore, I can't seem to put it down.
+
+After merging a couple of dataframes, I pulled the data into Streamlit with a few conditional statements to denote different colors based on percent change.
 
 **Thoughts:**
 
