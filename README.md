@@ -9,6 +9,7 @@
 ### Day 70 | Wednesday | November 16, 2022
 
 **Today's Progress**:
+Took off this evening. Will work on my financial app tomorrow. Still need to work on converting the lastdividenddate column into datetime instead of seconds.
 
 **Thoughts:**
 
