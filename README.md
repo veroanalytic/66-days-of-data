@@ -6,6 +6,40 @@
 
 ---
 
+### Day 72 | Friday | November 18, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+### Day 71 | Thursday | November 17, 2022
+
+**Today's Progress**:
+Studying different variations of multiples analysis to evaluate the valuation of a stock. 
+
+First up is the P/E ratio: Share price / Earnings Per Share  (EPS)
+
+Trailing P/E utilizes historical earnings data for its EPS. 
+
+Forward P/E takes expected earnings for its EPS.
+
+Tomorrow, I'll pull a few more companies in related sectors to review P/E across multiple industry peers.
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 70 | Wednesday | November 16, 2022
 
 **Today's Progress**:
