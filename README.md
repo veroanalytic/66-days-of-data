@@ -6,9 +6,23 @@
 
 ---
 
+### Day 73 | Saturday | November 19, 2022
+
+**Today's Progress**:
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
 ### Day 72 | Friday | November 18, 2022
 
 **Today's Progress**:
+Optimized the my daily_data df to only include necessary columns, which improved overall performance of my financial-portfolio app refresh.
 
 
 **Thoughts:**
