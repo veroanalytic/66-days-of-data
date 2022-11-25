@@ -6,9 +6,10 @@
 
 ---
 
-### Day 73 | Saturday | November 19, 2022
+### Day 73 | Friday | November 20, 2022
 
 **Today's Progress**:
+Took a break from journaling. Need to get back to this.
 
 
 **Thoughts:**
