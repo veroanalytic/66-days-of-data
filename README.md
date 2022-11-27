@@ -6,10 +6,27 @@
 
 ---
 
-### Day 73 | Friday | November 20, 2022
+### Day 74 | Sunday | November 27, 2022
+
+**Today's Progress**:
+
+
+
+**Thoughts:**
+
+
+**Link to work:**
+- 66-days-of-data repo: https://github.com/veroanalytic/66-days-of-data
+
+---
+
+
+### Day 73 | Saturday | November 26, 2022
 
 **Today's Progress**:
 Took a break from journaling. Need to get back to this.
+
+Worked on my Financial transaction portfolio on Google Sheets. Replaced a few hardcoded values with XLOOKUP formulas.
 
 
 **Thoughts:**
